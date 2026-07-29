@@ -14,4 +14,4 @@ We provide the fastest and most affordable AI-powered API for bypassing CAPTCHAs
 * [C# .NET SDK](https://github.com/CapMonsterCloud/client-dotnet)
 * [n8n Community Node](https://github.com/CapMonsterCloud/n8n-capmonstercloud-node)
 
-**[👉 Get your API Key](https://capmonster.cloud/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme)**
+**[👉 Get your API Key](https://dash.capmonster.cloud/Account/SignUp?utm_source=github&utm_medium=referral&utm_campaign=profile_readme)**
