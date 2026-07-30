@@ -10,7 +10,7 @@ We provide the fastest and most affordable AI-powered API for bypassing CAPTCHAs
 
 ### 🛠️ Official SDKs & Integrations
 * [Python SDK](https://github.com/CapMonsterCloud/client-python)
-* [Node.js SDK](https://github.com/CapMonsterCloud/client-js)
+* [Node.js SDK](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver)
 * [C# .NET SDK](https://github.com/CapMonsterCloud/client-dotnet)
 * [n8n Community Node](https://github.com/CapMonsterCloud/n8n-capmonstercloud-node)
 
