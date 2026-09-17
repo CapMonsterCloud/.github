@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CapMonsterCloud/.github/main/profile/assets/hero-banner.png" alt="CapMonster Cloud — AI-Powered CAPTCHA Solving for Automation Workflows" width="100%">
-</p>
+# 🤖 Welcome to CapMonster Cloud
 
-<p align="center">
-  <strong>Fast, reliable AI-powered CAPTCHA solving APIs and developer tools for web scraping, automation, and testing workflows.</strong>
-</p>
+**Fast, reliable AI-powered CAPTCHA solving APIs and developer tools for web scraping, automation, and testing workflows.**
 
 <p align="center">
   <a href="https://dash.capmonster.cloud/Account/SignUp?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Get Started</a> ·
   <a href="https://docs.capmonster.cloud/?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Documentation</a> ·
-  <a href="https://dash.capmonster.cloud/?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Dashboard</a> ·
   <a href="https://capmonster.cloud/en/#new-plans?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Pricing</a>
 </p>
 
@@ -37,7 +32,7 @@
 | [capmonster-dotnet-captcha-solver](https://github.com/CapMonsterCloud/capmonster-dotnet-captcha-solver) | C#, WPF, ASP.NET automation projects | `dotnet add package Zennolab.CapMonsterCloud.Client` |
 | [capmonster-n8n-captcha-solver](https://github.com/CapMonsterCloud/capmonster-n8n-captcha-solver) | No-code workflow automation | [View repository →](https://github.com/CapMonsterCloud/capmonster-n8n-captcha-solver) |
 | [capmonster-mcp-captcha-solver](https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver) | AI agents (Claude, Cursor) via Model Context Protocol | [View repository →](https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver) |
-| [capmonster-mcp-patchright-captcha-solver](https://github.com/CapMonsterCloud/capmonster-mcp-patchright-captcha-solver) | Stealth browser automation for AI agents | [View repository →](https://github.com/CapMonsterCloud/capmonster-mcp-patchright-captcha-solver) |
+| [capmonster-mcp-patchright](https://github.com/CapMonsterCloud/capmonster-mcp-patchright) | Stealth browser automation for AI agents | [View repository →](https://github.com/CapMonsterCloud/capmonster-mcp-patchright) |
 | [capmonster-captcha-solver-docs](https://github.com/CapMonsterCloud/capmonster-captcha-solver-docs) | Full API documentation & integration guides | [Read docs →](https://docs.capmonster.cloud/) |
 
 ---
