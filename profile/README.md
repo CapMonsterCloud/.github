@@ -15,8 +15,8 @@
 | CAPTCHA Type | Description | Link |
 | :--- | :--- | :--- |
 | **reCAPTCHA v2** | Token-based solving for checkbox and invisible reCAPTCHA v2. | [Explore reCAPTCHA v2 →](https://capmonster.cloud/en/recaptcha-v2/) |
-| **reCAPTCHA v3 / Enterprise** | Score-based token generation for reCAPTCHA v3 and Enterprise workflows. | [Explore reCAPTCHA v3 →](https://capmonster.cloud/en/recaptcha/) |
-| **Cloudflare Turnstile** | Bypass checkbox and invisible Cloudflare Turnstile challenges. | [Explore Turnstile →](https://landing.capmonster.cloud/en/turnstile) |
+| **reCAPTCHA v3 / Enterprise** | Score-based token generation for reCAPTCHA v3 and Enterprise workflows. | [Explore reCAPTCHA v3 →](https://capmonster.cloud/en/recaptcha-v3/) |
+| **Cloudflare Turnstile** | Bypass checkbox and invisible Cloudflare Turnstile challenges. | [Explore Turnstile →](https://capmonster.cloud/en/cloudflare-turnstile/) |
 | **Amazon WAF** | Automatic recognition and solving of AWS WAF CAPTCHA challenges. | [Explore AWS WAF →](https://capmonster.cloud/en/aws-waf-captcha) |
 | **MTCaptcha** | AI-based solving for MTCaptcha challenges. | [Explore MTCaptcha →](https://capmonster.cloud/en/mtcaptcha/) |
 | **DataDome, GeeTest, FunCaptcha, Tencent, Yidun, Alibaba, Text CAPTCHA & more** | Full list of supported CAPTCHA types with API specs and payload samples. | [View all supported types →](https://docs.capmonster.cloud/docs/captchas/) |
