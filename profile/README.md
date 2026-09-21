@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://dash.capmonster.cloud/Account/SignUp?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Get Started</a> ·
   <a href="https://docs.capmonster.cloud/?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Documentation</a> ·
-  <a href="https://capmonster.cloud/en/#new-plans?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme">Pricing</a>
+  <a href="https://capmonster.cloud/en/?utm_source=github&utm_medium=referral&utm_campaign=org_profile_readme#new-plans">Pricing</a>
 </p>
 
 ---
